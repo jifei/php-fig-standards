@@ -8,6 +8,20 @@
 * [PSR-4 自动加载规范](PSR-4-autoloader.md)
 * [PSR-4 自动加载规范补充](PSR-4-autoloader-meta.md)
 * [PSR-4 自动加载规范样例](PSR-4-autoloader-examples.md)
+         
+
+
+
+
+
+
+
+
+
+
+
+
+                    Github地址:[https://github.com/jifei/php-fig-standards](https://github.com/jifei/php-fig-standards)
 
 
 
